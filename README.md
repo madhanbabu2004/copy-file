@@ -18,8 +18,16 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+```
+with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
+    for line in firstfile:
+             secondfile.write(line)
+
+```
 
 ### OUTPUT:
+![output](./zzzz.png)
+
 
 
 
