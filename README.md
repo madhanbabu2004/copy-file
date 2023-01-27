@@ -26,6 +26,7 @@ with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
 ```
 
 ### OUTPUT:
+![output](./p.png)
 ![output](./zzzz.png)
 
 
